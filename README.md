@@ -1,16 +1,41 @@
-## Hi there 👋
+## 📊 Introduction
 
-<!--
-**ditoid/ditoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="600" height="200" alt="Untitled design" src="https://github.com/user-attachments/assets/ee655cb2-e575-4c16-8c1e-b6d97ffe29b5" />
 
-Here are some ideas to get you started:
+Hello, I'm Dito. Data Analyst with experience in data analysis, data modeling, and dashboard creation.
+- Data Preparation using Microsoft Excel/Power Query
+- Querying and Modeling data using SQL
+- Generate report and actionable insight using PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 📈 IHSG Risk Driver Analysis & Monitoring Dashboard
+End-to-end market risk analysis project designed to identify market regimes, validate historical crisis periods, and analyze the key drivers behind market instability in the Indonesia Stock Exchange (IHSG).
+
+### 📈 Demand and Supply for Data Job Market in Jakarta
+End-to-end job market analysis project designed to identify demand, hiring difficulty, and market positioning for data-related job listings.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Data Analysis
+- SQL (PostgreSQL, MySQL)
+
+### Data Visualization
+- Power BI
+- Tableau
+
+### Data Preparation
+- Excel
+- Power Query
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [nrpratama](https://www.linkedin.com/in/nrpratama/)
+
+---
