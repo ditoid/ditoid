@@ -20,14 +20,13 @@ End-to-end job market analysis project designed to identify demand, hiring diffi
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 
 ### Data Analysis
 - SQL (PostgreSQL, MySQL)
 
 ### Data Visualization
 - Power BI
-- Tableau
 
 ### Data Preparation
 - Excel
