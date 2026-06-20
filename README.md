@@ -12,7 +12,7 @@ Hello, I'm Dito. Data Analyst with experience in data analysis, data modeling, a
 
 ## 🚀 Featured Projects
 
-### 📈 [IHSG Risk Driver Analysis & Monitoring Dashboard](https://github.com/ditoid/IHSG-Monitoring-and-Risk-Driver-Analysis)
+### 📈 [IDX Early Warning System: Detecting Market Risk Before It Escalate](https://github.com/ditoid/IHSG-Monitoring-and-Risk-Driver-Analysis)
 End-to-end market risk analysis project designed to identify market regimes, validate historical crisis periods, and analyze the key drivers behind market instability in the Indonesia Stock Exchange (IHSG).
 
 ### 📈 [Demand and Supply for Data Job Market in Jakarta](https://github.com/ditoid/Data_Job_Market_Analysis_Jakarta)
