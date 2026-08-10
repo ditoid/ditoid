@@ -24,6 +24,7 @@ End-to-end job market analysis project designed to identify demand, hiring diffi
 
 ### Data Analysis
 - SQL (PostgreSQL, MySQL)
+- Python (Pandas, Matplotlib)
 
 ### Data Visualization
 - Power BI
