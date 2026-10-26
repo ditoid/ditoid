@@ -10,7 +10,7 @@ Hello, I'm Dito. Data Analyst with experience in data analysis, data modeling, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📈 [Delivery Last Mile Execution Analysis](https://github.com/ditoid/Delivery-Last-Mile-Execution-Analysis)
 Analysis of delivery route adherence and its impact with distance deviation and time-window adherence.
@@ -21,7 +21,7 @@ End-to-end market risk analysis project designed to identify market regimes, val
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 ### Data Analysis
 - SQL (PostgreSQL, MySQL)
@@ -36,7 +36,7 @@ End-to-end market risk analysis project designed to identify market regimes, val
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: [nrpratama](https://www.linkedin.com/in/nrpratama/)
 
